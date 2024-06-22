@@ -5,3 +5,5 @@ git add . -> stages the all changed files.
 git commit -m"<message>" -> commits the code with message.
 
 git push -> pushes the code into internet repository.
+
+git pull -> brings the updated code in the internet repository to local.
